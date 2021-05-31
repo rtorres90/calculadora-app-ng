@@ -1,2 +1,3 @@
 sudo npm install bootstrap --save
 sudo npm install jquery --saves
+ng serve -o
